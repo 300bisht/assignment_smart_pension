@@ -10,10 +10,10 @@
   Checkout to repo
 
 #Step4 - 
-   #Run locally 
-   ```bash
-    - ruby ./parser.rb webserver.log
-    ```
+  Run locally 
+  ```bash
+    ruby ./parser.rb webserver.log
+  ```
   It will print the desire output(most views count and unique views count)
 
 #Step5 - 
